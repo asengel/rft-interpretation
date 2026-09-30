@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "Dake Fig 2.20 - Wells A+B",
+      "wells": ["A", "B"],
+      "oil_grad": 0.28,
+      "wat_grad": 0.44,
+      "rmse_limit": 1.0,
+      "min_points": 3,
+      "segment_penalty": 20.0
+    },
+    {
+      "name": "Dake Fig 2.21 - Well C",
+      "wells": ["C"],
+      "oil_grad": 0.27,
+      "wat_grad": 0.45,
+      "rmse_limit": 2.0,
+      "min_points": 3,
+      "segment_penalty": 20.0
+    }
+  ]
+}
